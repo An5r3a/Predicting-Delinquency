@@ -1,15 +1,11 @@
-### Delinquency Model
 
-This is the markdown version of the jupyter notebook for easy read online.
-Please find the Case_study_delinquency.ipynb for the executable code.
-And Case Study.pdf for the report.
-
-## Case Study
+## Delinquency Model
 
 The objective of this case study is to create a delinquency model which can predict in terms of probabilities for each loan transaction, whether a consumer will be delinquent on his mortgage repayments in the next month. 
 Delinquency is a condition that arises when an activity or situation does not occur at its schedule or expected date; that is, it occurs later than expected. 
 
-Environment specification
+# Environment specification
+
 This notebook should be run under python with all necessary Data Science packages, Anaconda environment is recommended.
 Please install the following packages
 
