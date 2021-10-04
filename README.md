@@ -1,7 +1,7 @@
 ### Delinquency Model
 
 This is the markdown version of the jupyter notebook for easy read online.
-Please find the Lowell_case_study_delinquency.ipynb for the executable code.
+Please find the Case_study_delinquency.ipynb for the executable code.
 And Case Study.pdf for the report.
 
 ## Case Study
